@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string-array name="album_name_array">
+       <item>Taylor Swift</item>
+       <item>Fearless</item>
+       <item>Speak Now</item>
+       <item>Red</item>
+       <item>1989</item>
+       <item>Reputation</item>
+       <item>Lover</item>
+       <item>Folklore</item>
+       <item>Evermore</item>
+       <item>Midnights</item>
+       <item>The Tortured Poets Department</item>
+    </string-array>
+
+   <string-array name="first_single_array">
+      <item>Tim McGraw</item>
+      <item>Love Story</item>
+      <item>Mine</item>
+      <item>We Are Never Ever Getting Back Together</item>
+      <item>Shake It Off</item>
+      <item>Look What You Made Me Do</item>
+      <item>ME!" (feat. Brendon Urie)</item>
+      <item>Cardigan</item>
+      <item>Willow</item>
+      <item>Anti-Hero</item>
+      <item>Fortnight</item>
+   </string-array>
+
+   <string-array name="release_date_array">
+      <item>October 24, 2006</item>
+      <item>November 11, 2008</item>
+      <item>October 25, 2010</item>
+      <item>October 22, 2012</item>
+      <item> October 27, 2014</item>
+      <item>  November 10, 2017</item>
+      <item>  August 23, 2019</item>
+      <item> July 24, 2020</item>
+      <item> December 11, 2020</item>
+      <item>  October 21, 2022</item>
+      <item>  April 19, 2024</item>
+   </string-array>
+</resources>
